@@ -11,3 +11,9 @@
 
 * login dan join dibeberapa class yang disediakan bangkit
 * memulai beberapa pelajaran di qoursera
+
+21 agustus 2023
+==
+**Belajar kelas Belajar dasar git dengan Github. (Progres 100%)**
+* Telah memahami dasar dalam membuat Git di Github
+* Telah mempublish hasil kerja
